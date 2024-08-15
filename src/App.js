@@ -1,4 +1,6 @@
-  const App = () => {
+import './categories.styles.scss'
+
+const App = () => {
     
     const categories = [
       {
